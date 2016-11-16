@@ -1,2 +1,5 @@
 *.layout
 *.dat
+*.cbp
+*.o
+*.depend
